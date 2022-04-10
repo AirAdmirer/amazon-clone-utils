@@ -1,5 +1,8 @@
 const double kAppBarHeight = 80;
 
+const String amazonLogoUrl =
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Amazon_icon.svg/2500px-Amazon_icon.svg.png";
+
 const List<String> categoriesList = [
   "Prime",
   "Mobiles",
